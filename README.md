@@ -7,7 +7,7 @@ The official code of *"A Robust Deep Retinex Decomposition Network Leveraging a 
 ## Overview
 
 <p align="center">
-  <img src="assets\DiffCLIP.png" alt="overview" width="90%">
+  <img src="assets\framework.png" alt="overview" width="90%">
 </p>
 <p align="center">
     The workflow of our robust Retinex decomposition method.
