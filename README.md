@@ -34,6 +34,16 @@ The official code of *"A Robust Deep Retinex Decomposition Network Leveraging a 
 
 ## Environment
 
+```latex
+Python = 3.7.16
+PyTorch = 1.11.0
+torchvision = 0.12.0
+numpy = 1.19.5，
+matplotlib = 3.5.3
+opencv-python = 4.8.0.76
+```
+Please make sure all dependencies are installed. If certain packages are missing, please install them manually. If you are unable to set up the environment successfully, please contact me.
+
 ## Train 
 
 ## Test
