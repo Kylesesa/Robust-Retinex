@@ -1,5 +1,5 @@
 # Robust-Retinex
-The official code of *"A Robust Deep Retinex Decomposition Network Leveraging a Novel Synthetic Dataset for Low-Light Image Enhancement"*
+The official code of [*"A Robust Deep Retinex Decomposition Network Leveraging a Novel Synthetic Dataset for Low-Light Image Enhancement"*](https://ieeexplore.ieee.org/document/11152121)
 > 📝 Published in: IEEE International Conference on Multimedia and Expo Workshops (ICMEW), 2025  
 > 🧑‍💻 Author: [Kaicheng Xu](https://github.com/Kylesesa), An Wei, Congxuan Zhang, Zhen Chen, Peng Liu, and Ke Lu.
 
@@ -49,3 +49,14 @@ Please make sure all dependencies are installed. If certain packages are missing
 ## Test
 
 ## Citation
+```latex
+@INPROCEEDINGS{xu2025robust,
+  author={Xu, Kaicheng and Wei, An and Zhang, Congxuan and Chen, Zhen and Liu, Peng and Lu, Ke},
+  booktitle={2025 IEEE International Conference on Multimedia and Expo Workshops (ICMEW)}, 
+  title={A Robust Deep Retinex Decomposition Network Leveraging a Novel Synthetic Dataset for Low-Light Image Enhancement}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-6},
+  doi={10.1109/ICMEW68306.2025.11152121}}
+```
