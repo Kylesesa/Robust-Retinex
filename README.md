@@ -19,6 +19,8 @@ The official code of [*"A Robust Deep Retinex Decomposition Network Leveraging a
 </p>
 <p align="center">
     Some examples from our PRI dataset.
+
+If you want the datasets, please email me.
 </p>
 
 
