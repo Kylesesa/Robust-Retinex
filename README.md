@@ -47,6 +47,7 @@ opencv-python = 4.8.0.76
 Please make sure all dependencies are installed. If certain packages are missing, please install them manually. If you are unable to set up the environment successfully, please contact me.
 
 ## Train 
+I've been quite busy lately, but I'll upload the code as soon as possible. Our network and loss function are both very straightforward—you can fully build it by following the paper exactly.
 
 ## Test
 
